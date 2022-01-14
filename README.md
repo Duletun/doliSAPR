@@ -2,7 +2,7 @@
 Предмет: Компьютерная механика
 
 Исполняемый файл:
-- [Скачать doliSapr Windows](https://github.com/Duletun/doliPlot/releases)
+- [Скачать doliSARP для Windows](https://github.com/Duletun/doliSAPR/releases/tag/1.0)
 
 Писалось на: 
 - Python + PyQT (и еще несколько библиотек)
