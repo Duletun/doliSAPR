@@ -29,3 +29,8 @@
 
 https://user-images.githubusercontent.com/76465730/149433362-da728526-5ec0-4aa7-ad67-27d88a4e83d2.mp4
 
+Итоговые рассчеты:
+
+https://user-images.githubusercontent.com/76465730/149439162-37980210-d4d0-4d6b-9803-ad2bbc62e682.mp4
+
+
