@@ -23,4 +23,5 @@
 - 1 неделя
 
 Примеры работы:
+https://user-images.githubusercontent.com/76465730/149433362-da728526-5ec0-4aa7-ad67-27d88a4e83d2.mp4
 
