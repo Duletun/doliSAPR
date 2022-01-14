@@ -1,6 +1,9 @@
 # doliSAPR - проект SAPR от Duletun
 Предмет: Компьютерная механика
 
+Исполняемый файл:
+- [Скачать doliSapr Windows](https://github.com/Duletun/doliPlot/releases)
+
 Писалось на: 
 - Python + PyQT (и еще несколько библиотек)
 
