@@ -3,7 +3,7 @@
 
 Срок выполнения:
 - 1 неделя
-- 
+
 Исполняемый файл:
 - [Скачать doliSARP для Windows](https://github.com/Duletun/doliSAPR/releases/tag/1.0)
 
